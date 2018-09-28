@@ -109,4 +109,5 @@ make test
 
 ### Integration Tests
 
-Integration tests use the Splinter webdriver with Google Chrome. For instructions on installation requirements and running integration tests, [see Integration Tests README](tests/integration/README.md)
+Tes integrasi menggunakan Splinter webdriver dengan Google Chrome. Untuk instruksi tentang persyaratan instalasi dan menjalankan tes integrasi, [lihat Tes Integrasi README] (tes / integrasi / README.md)
+
